@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Mark Kendall's Blog</title>
+  <link href="http://markkendall.github.com/atom.xml" rel="self"/>
+  <link href="http://markkendall.github.com/"/>
+  <updated>2011-08-25T17:43:15-04:00</updated>
+  <id>http://markkendall.github.com/</id>
+  <author>
+    <name>Mark Kendall</name>
+    
+  </author>
+
+  
+</feed>
